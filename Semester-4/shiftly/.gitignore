@@ -55,3 +55,7 @@ dist
 
 # Local Netlify folder
 .netlify
+
+# Ignore these folders
+gitclone/
+intp-app-1/
