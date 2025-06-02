@@ -19,6 +19,10 @@
   "version": "1.0.0",
   "description": "StaffEasy is a comprehensive employee management system designed to simplify operations within companies of any size. This web application centralizes employee data, eliminating outdated paper-based systems and disconnected spreadsheets.",
   "main": "index.js",
+
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
